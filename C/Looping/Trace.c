@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <stdio.h>             //This header file for  scanf() and printf() function usage in my code
+#include <stdlib.h>           // This header file for exit() function usage in my code
 int main()
 {
     int MatA[10][20]; //Declare Matrix A elements with size of 10 rows and 20 Columns at the maximum limit

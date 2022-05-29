@@ -31,7 +31,7 @@ int main()
         //printf("\n");                         // After execute Note 1: inference, now get another inference by uncomment this line, and see how matrix displays
        // Can you able to get insights why above printf("\n") statement is put outside inner for loop
     }
-   // exit(0);                          // Upto now you got skill of Loading values/ elements of Matrix and Displaying elements of Matrix one by one.
+    exit(0);                          // Upto now you got skill of Loading values/ elements of Matrix and Displaying elements of Matrix one by one.
     // Are you clear , shall we go further comment above statement exit(0) and proceed further
     //Here code of looping for finding Trace of Matrix
     /*
@@ -52,7 +52,7 @@ int main()
             //printf("Row No. %d,Column No. %d of Matrix element is %d\n",i,j,MatA[j][i]);;// Here it gives elements of matrix as column wise
         }
     }
-    //exit(0);
+    exit(0);
     // Are you clear , shall we go further comment above statement exit(0) and proceed further
     //Now you know how to access elementwise by nexted looping
     // Lets start coding for finding trace of matrix, in which sum of elements whose indexes of row and column to be same
